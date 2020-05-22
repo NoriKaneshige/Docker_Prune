@@ -1,6 +1,6 @@
 # Docker_Prune
 ## Basically clean everything of engine that is not actively being used in running container 
-
+![Docker_Prune_Bret_Fisher_Youtube](https://www.youtube.com/watch?v=_4QzP7uwtvI&feature=youtu.be)
 
 ### docker system
 ```
